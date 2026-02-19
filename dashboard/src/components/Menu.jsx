@@ -58,6 +58,10 @@ const Menu = () => {
           <div className="avatar">RC</div>
           <p className="username">USERID</p>
         </div>
+
+        <div>
+          <button className="btn btn-danger">LogOut</button>
+        </div>
         {/* {isProfileDropDownOpen} */}
       </div>
     </div>
