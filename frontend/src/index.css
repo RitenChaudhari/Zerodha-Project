@@ -1,0 +1,33 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.nav-link{
+  margin-left: 40px;
+}
+
+#supportHero{
+  background-color: rgb(56,126,209);
+  color:white;
+}
+
+#supportHero a{
+  color:white;
+}
+
+#supportWrapper{
+  display: flex;
+  justify-content: space-between;
+  margin:0 150px;
+}
+
+#formSignup{
+  width: 100%;
+  height: 100%;
+}
